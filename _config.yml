@@ -1,28 +1,18 @@
-name: plattitude
-favicon: null
-layout_spectrum: 0.7822968661785126
-typography_spectrum: 0.8058478806633502
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.46341033023782074
-  lightness: 0.10508844163268805
-  saturation: 0.3890956901013851
-  rhythmicContrast: 0.7587193802464753
+    - '#E0D8C8'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#F8F8D8'
+  brandStrength: 0.649774
+  lightness: 0.105088
+  rhythmicContrast: 0.36036
+  saturation: 0.389095
+cta: {}
+layout_spectrum: 0
+name: plattitude
+opengraph: {}
 purpose: []
+typography_spectrum: 0.404279
