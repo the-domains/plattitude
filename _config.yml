@@ -13,10 +13,11 @@ color:
 opengraph: {}
 layout_spectrum: 0
 analytics: {}
-name: plattitude
+name: Plattitude
 cta: {}
 navigation:
   - name: Water
     id: 3e9ea8c5-8bc7-4a2a-a62d-21db4bf63272
     type: content
+title: Head1
 purpose: []
