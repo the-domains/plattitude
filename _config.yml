@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.404279
 color:
   brandColors:
     - '#E0D8C8'
@@ -10,9 +10,13 @@ color:
   lightness: 0.105088
   rhythmicContrast: 0.36036
   saturation: 0.389095
-cta: {}
-layout_spectrum: 0
-name: plattitude
 opengraph: {}
+layout_spectrum: 0
+analytics: {}
+name: plattitude
+cta: {}
+navigation:
+  - name: Water
+    id: 3e9ea8c5-8bc7-4a2a-a62d-21db4bf63272
+    type: content
 purpose: []
-typography_spectrum: 0.404279
